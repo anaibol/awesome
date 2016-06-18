@@ -178,7 +178,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [PostCSS](https://github.com/jjaderg/awesome-postcss)
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
-
+- [Serverless](https://github.com/anaibol/awesome-serverless)
 
 ## Back-End Development
 
